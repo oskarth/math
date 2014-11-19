@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is a space for my amateur math writing. Expect to find entries on perturbation theory, bifurcation analysis and applied problems.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+For my main blog, go to [blog.oskarth.com](http://blog.oskarth.com).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you want to contact me, you can find me on
+[Twitter](http://twitter.com/oskarth) or [email me](mailto:me@oskarth.com).
